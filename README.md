@@ -1,5 +1,5 @@
 ## 👋 Hi! I’m @vinnie-wu. An incoming 3rd year Electrical Engineering student at the University of British Columbia (Vancouver).
- I'm currently working as a co-op student at the Energy, Mining and Environment Research Centre at the **National Research Council of Canada** in Vancouver. Previously, I worked as a student developer at the **UBC-AWS Cloud Innovation Centre**, a ***public-private collaboration*** between the University of British Columbia and Amazon Web Services.<br>
+ I'm currently working as a co-op student at the Energy, Mining and Environment Research Centre at the **National Research Council of Canada** in Vancouver. Previously, I worked as a student developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services.<br>
 - 👀 **Interested in**: software design, web development, cloud computing, networking, IoT, cyber security.
 - 🌱 **Currently learning**: Energy-systems, data integration tools, data visualization software, DevOps services.
 
