@@ -1,5 +1,5 @@
 ## 👋 Hi! I’m @vinnie-wu. A 3rd year Electrical Engineering student at the University of British Columbia (Vancouver).
- I recently finished my work as a co-op student on the System Integration Team at the Energy, Mining and Environment Research Centre of the **National Research Council of Canada** in Vancouver. Previously, I worked as a student developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services. (My project: [BC Smart Access to Guide Emergency care](https://cic.ubc.ca/project/bc-smart-access-to-guide-emergency-care/)) <br>
+ I recently finished my work as a co-op student on the System Integration Team at the Energy, Mining and Environment Research Centre of the **National Research Council of Canada** in Vancouver. Previously, I worked as a student developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services. (Project: [BC Smart Access to Guide Emergency care](https://cic.ubc.ca/project/bc-smart-access-to-guide-emergency-care/)) <br>
 - 👀 **Interested in**: Software design, web development, cloud computing, computer networking, IoT, cyber security, CTFs.
 - 🌱 **Currently learning**: Software systems design, data integration tools, DevOps services.
 
