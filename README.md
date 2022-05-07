@@ -26,6 +26,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="HTML5" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="36px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img align="left" alt="R" width="32px" src="https://cran.r-project.org/Rlogo.svg" />
 <img align="left" alt="CSharp" width="32px" src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" />
 <img align="left" alt="DotNet" width="32px" src="https://user-images.githubusercontent.com/42860908/106164530-120e5680-61b0-11eb-954c-969c7031ffd4.png" />
 
@@ -36,7 +37,6 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Cpp" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
-<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png" />
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="8051" width="32px" src="https://junwatu.gallerycdn.vsassets.io/extensions/junwatu/8051/0.1.0/1499505580682/Microsoft.VisualStudio.Services.Icons.Default" /><br>
 <p>&nbsp;</p>
