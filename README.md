@@ -1,7 +1,7 @@
 ## 👋 Hi! I’m @vinnie-wu. A 3rd year Electrical Engineering student at the University of British Columbia (Vancouver).
- I recently finished my work as a co-op student on the System Integration Team at the Energy, Mining and Environment Research Centre of the **National Research Council of Canada** in Vancouver. Previously, I worked as a student developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services. (Project: [BC Smart Access to Guide Emergency care](https://cic.ubc.ca/project/bc-smart-access-to-guide-emergency-care/)) <br>
+ I currently work as a Product Engineer co-op at Microchip Technologies in Vancouver, BC, where I work on SoC and next generation networking systems. Previously, I worked in the System Integration Team at the **National Research Council of Canada**, and as a developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services. (Project: [BC Smart Access to Guide Emergency care](https://cic.ubc.ca/project/bc-smart-access-to-guide-emergency-care/)) <br>
 - 👀 **Interested in**: Software design, web development, cloud computing, computer networking, IoT, cyber security, CTFs.
-- 🌱 **Currently learning**: Software systems design, data integration tools, DevOps services.
+- 🌱 **Currently learning**: Microprocessor design & testing, software systems design, large-scale data programming, DevOps services.
 
 If you are a hiring manager, you may be interested in taking a look at these projects:
 - [Amazon Warehousing Portal](https://github.com/vinnie-wu/Amazon-Warehousing-Portal)
@@ -37,6 +37,7 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="Cpp" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
+<img align="left" alt="R" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png" />
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
 <img align="left" alt="8051" width="32px" src="https://junwatu.gallerycdn.vsassets.io/extensions/junwatu/8051/0.1.0/1499505580682/Microsoft.VisualStudio.Services.Icons.Default" /><br>
 <p>&nbsp;</p>
