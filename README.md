@@ -34,8 +34,9 @@ You can click the Preview link to take a look at your changes.
 <img align="left" alt="SQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="Git" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="Cpp" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="Java" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" />
+<p>&nbsp;</p>
+<img align="left" alt="Cpp" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 <img align="left" alt="C" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/c.svg" />
 <img align="left" alt="Python" width="32px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" />
 <img align="left" alt="8051" width="32px" src="https://junwatu.gallerycdn.vsassets.io/extensions/junwatu/8051/0.1.0/1499505580682/Microsoft.VisualStudio.Services.Icons.Default" /><br>
