@@ -1,7 +1,7 @@
 ## 👋 Hi! I’m @vinnie-wu. A 3rd year Electrical Engineering student at the University of British Columbia (Vancouver).
- I currently work as a Product Engineer co-op at Microchip Technologies in Vancouver, BC, where I work on SoC and next generation networking systems. Previously, I worked in the System Integration Team at the **National Research Council of Canada**, and as a developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services. (Project: [BC Smart Access to Guide Emergency care](https://cic.ubc.ca/project/bc-smart-access-to-guide-emergency-care/)) <br>
+ I recently completed work as a Product Engineer at **Microchip Technologie**s in Vancouver, BC, where I worked on next generation data-centre hardware solutions. Previously, I worked in the System Integration Team at the **National Research Council of Canada**, and as a developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services. (Project: [BC Smart Access to Guide Emergency care](https://cic.ubc.ca/project/bc-smart-access-to-guide-emergency-care/)) <br>
 - 👀 **Interested in**: Software design, web development, cloud computing, computer networking, IoT, cyber security, CTFs.
-- 🌱 **Currently learning**: Microprocessor design & testing, software systems design, large-scale data programming, DevOps services.
+- 🌱 **Currently learning**: Microprocessor design & testing, scalable systems design, cryptography, machine learning.
 
 If you are a hiring manager, you may be interested in taking a look at these projects:
 - [Amazon Warehousing Portal](https://github.com/vinnie-wu/Amazon-Warehousing-Portal)
