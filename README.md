@@ -1,10 +1,10 @@
-## 👋 Hi! I’m @vinnie-wu. A 4th year Electrical Engineering student at the University of British Columbia (Vancouver).
- I recently completed work as a Product Engineer at **Microchip Technology** in Vancouver, BC, where I worked on the next generation data-centre hardware solutions. Previously, I worked in the System Integration Team at the **National Research Council of Canada**, and as a student developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services. (Project: [BC Smart Access to Guide Emergency care](https://cic.ubc.ca/project/bc-smart-access-to-guide-emergency-care/)) <br>
-- 👀 **Interested in**: Scalable software design, secure web development, cloud computing, computer networking, IoT, cyber security, CTFs.
-- 🌱 **Currently learning**: Microprocessor design & testing, scalable systems design, cryptography, machine learning.
-- 🌼 **Professionally adept in:** Product testing, equipment automation, data visualization, AWS administration.
+## 👋 Hi! I’m @vinnie-wu. A final year Electrical Engineering student at the University of British Columbia (Vancouver).
+I was recently a Product Engineer at **Microchip Technology** in Vancouver, BC, where I worked on the next generation of hardware solutions for data-centers (specifically, 5th generation PCIe chips). Previously, I worked in the System Integration Team at the **National Research Council of Canada**, and as a student developer at the **UBC-AWS Cloud Innovation Centre**, a *public-private collaboration* between the University of British Columbia and Amazon Web Services. (Project: [BC Smart Access to Guide Emergency care](https://cic.ubc.ca/project/bc-smart-access-to-guide-emergency-care/)) <br>
+- 👀 **Interested in**: Scalable software design, secure web development, cloud computing, computer networking, IoT, cyber security, reverse engineering, CTFs.
+- 🌱 **Currently learning**: Deep learning, error control coding.
+- 🌼 **Professionally adept in:** Product testing, Automatic Test Equipment (ATE) control, Python scripting, data visualization tools, AWS solutions architecting & administration.
 
-If you are a hiring manager, you may be interested in taking a look at these projects:
+If you are a hiring manager, you may be interested in taking a look at these projects.:
 - [Amazon Warehousing Portal](https://github.com/vinnie-wu/Amazon-Warehousing-Portal)
 - [Computer Vision Kernel](https://github.com/vinnie-wu/computer_vision_kernel)
 - [8b/10b Encoder](https://github.com/vinnie-wu/8b10b_encoder)
