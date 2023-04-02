@@ -12,6 +12,7 @@ If you are a hiring manager, you may be interested in taking a look at these pro
 - [Graphical Temperature Sensor](https://github.com/vinnie-wu/elec_291_projects/tree/master/Lab-04)
 - [TCP/IP Connection Simulation](https://github.com/vinnie-wu/computer_communications_elec_331)
 - [Machine Learning Model using Linear Regressor](https://github.com/vinnie-wu/machine-learning-linear-regress)
+- [Life at UBC (UBC Schedule PLanner)](https://course-load.netlify.app/schedule)
 
 <!---
 vinnie-wu/vinnie-wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
