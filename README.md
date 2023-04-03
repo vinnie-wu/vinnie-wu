@@ -13,6 +13,7 @@ If you are a hiring manager, you may be interested in taking a look at these pro
 - [TCP/IP Connection Simulation](https://github.com/vinnie-wu/computer_communications_elec_331)
 - [Machine Learning Model using Linear Regressor](https://github.com/vinnie-wu/machine-learning-linear-regress)
 - [Life at UBC (UBC Schedule Planner)](https://course-load.netlify.app/schedule)
+- [Coin Mining Machine](https://github.com/vinnie-wu/CPEN-442-A3)
 
 <!---
 vinnie-wu/vinnie-wu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
