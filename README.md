@@ -1,11 +1,11 @@
 ## 👋 Hi! I’m @vinnie-wu 
-Thank you for visiting my GitHub page. I graduated from the University of British Columbia (Vancouver) with a BASc in Electrical Engineering May of 2023. Currently, I work as a Silicon Validation Engineer at Synopsys.
+Thank you for taking a look at my GitHub page. I graduated from the University of British Columbia (Vancouver) with a BASc in Electrical Engineering May of 2023.
 
-Previous, I worked at **Microchip Technology**, **National Research Council of Canada**, and **UBC-AWS Cloud Innovation Centre**.
+Previous, I worked at **Synopsys Inc.**, **Microchip Technology**, **National Research Council of Canada**, and **UBC-AWS Cloud Innovation Centre**.
 - 👀 **Interested in**: Scalable software design, secure web development, cloud computing, computer networking, IoT, cyber security, reverse engineering, CTFs.
-- 🌱 **Currently learning**: SERDES
+- 🌱 **Currently learning**: Advanced Machine Learning concepts such as Generative Pre-trained Transformers.
 - 🌾 **Completed university coursework:** Machine Learning, Deep Learning, System Software Engineering, Cyber Security, System Software Engineering, Signals and Systems, Computer Communications, Error Control Coding.
-- 🌼 **Professionally adept in:** Product testing, Automatic Test Equipment (ATE) control, Python scripting, MATLAB scripting, data visualization tools, Web Development, AWS.
+- 🌼 **Professionally adept in:** Product testing, Python scripting, MATLAB scripting, data visualization tools, Web Development, AWS.
 
 If you are a hiring manager, you may be interested in taking a look at these projects.:
 - [Amazon Warehousing Portal](https://github.com/vinnie-wu/Amazon-Warehousing-Portal)
