@@ -1,13 +1,13 @@
 ## 👋 Hi! I’m @vinnie-wu 
-Thank you for taking a look at my GitHub page. I graduated from the University of British Columbia (Vancouver) with a BASc in Electrical Engineering May of 2023.
+Thank you for taking a look at my GitHub page.
 
-Previous, I worked at **Synopsys Inc.**, **Graduate Student Society of UBC (UBC-GSS)**, **Microchip Technology**, **National Research Council of Canada**, and **UBC-AWS Cloud Innovation Centre**.
-- 👀 **Interested in**: Scalable software design, secure web development, cloud computing, computer networking, IoT, cyber security, reverse engineering, CTFs.
-- 🌱 **Currently learning**: Advanced Machine Learning concepts such as Generative Pre-trained Transformers.
+Previously, I worked at **Synopsys Inc.**, **Graduate Student Society of UBC (UBC-GSS)**, **Microchip Technology**, **National Research Council of Canada**, and **UBC-AWS Cloud Innovation Centre**.
+- 👀 **Interested in**: Design for software scalability, web security, cloud computing, computer networking, IoT, cyber security, reverse engineering, CTFs.
+- 🌱 **Currently learning**: Advanced Machine Learning concepts such as Generative Pre-trained Transformers (How ChatGPT actually works!).
 - 🌾 **Completed university coursework:** Machine Learning, Deep Learning, System Software Engineering, Cyber Security, System Software Engineering, Signals and Systems, Computer Communications, Error Control Coding.
-- 🌼 **Professionally adept in:** Product testing, Python scripting, MATLAB scripting, data visualization tools, Web Development, AWS.
+- 🌼 **Professional experienced with:** Product testing, Python scripting, MATLAB scripting, data visualization tools, Web Development, AWS.
 
-If you are a hiring manager, you may be interested in taking a look at these projects.:
+If you are a hiring manager, you may be interested in taking a look at my projects:
 - [Amazon Warehousing Portal](https://github.com/vinnie-wu/Amazon-Warehousing-Portal)
 - [Computer Vision Kernel](https://github.com/vinnie-wu/computer_vision_kernel)
 - [8b/10b Encoder](https://github.com/vinnie-wu/8b10b_encoder)
